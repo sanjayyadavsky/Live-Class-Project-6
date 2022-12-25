@@ -102,3 +102,9 @@
 h4{
     font-size:20px ;
 }
+
+
+/* navbar animation */
+#navMid > div > h4:hover{
+    border-bottom: 2px solid #000000;
+}
