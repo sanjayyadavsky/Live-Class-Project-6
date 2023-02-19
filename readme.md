@@ -14,3 +14,4 @@ This is the 6th project HTML and CSS
 
  ![Mobiloe](./photos/Screenshot%202023-02-20%20at%2012.11.41%20am.png)
 
+# to view this page online please click [here](https://sanjayyadavsky.github.io/Live-Class-Project-6/)
