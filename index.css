@@ -17,7 +17,6 @@ body{
 #navbarMonstera > div{
     float: left;
     overflow: hidden;
-    
 }
 #navbarMonstera > div:nth-child(3){
     float: right;
