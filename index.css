@@ -7,32 +7,28 @@
 .clearfix{
     clear: both;
 }
+
+body{
+    margin: auto;
+}
 #navbarMonstera{
-    width: 95%;
     margin: 0 auto;
 }
 #navbarMonstera > div{
     float: left;
     overflow: hidden;
-}
-#navbarMonstera > div:nth-child(1){
-    width: 20%;
-}
-#navbarMonstera > div:nth-child(2){
-    width: 60%;
+    
 }
 #navbarMonstera > div:nth-child(3){
-    width: 20%;
+    float: right;
 }
 #navFirst img{
     padding: 34px 20px;
 }
 #navMid > div {
     float: left;
-    padding: auto;
-    font-size: 19px;
-    padding: 40px 47px;
-    font-weight: bolder;
+    margin: 20px 10px;
+    padding: 20px 20px;
 }
 #navEnd > div{
     position: relative;
@@ -48,7 +44,7 @@
     font-size: 130px;
 }
 #midWholePart1 {
-    width: 50%;
+    width: 55%;
  float: left;
  margin-top: 140px;
 }
@@ -67,7 +63,7 @@
     background-color: rgb(70, 109, 80);
     margin-top: 20px;
     margin-left: 20px;
-    width: 39%;
+    width: fit-content;
     border-radius: 41px;
 }
 #midWholePart121 div:first-child{
@@ -78,9 +74,6 @@
 }
 #midWholePart122{
     padding-left: 5px;
-}
-#midWholePart13{
-    width: 1000px;
 }
 #midWholePart13 > div{
     margin-top: 35px;
@@ -102,7 +95,12 @@
 h4{
     font-size:20px ;
 }
+.bar{
+    display: none;
+    float: right;
+    margin-top: 20px;
 
+}
 
 /* navbar animation */
 #navMid > div > h4:hover{

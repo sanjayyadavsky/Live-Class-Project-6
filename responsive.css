@@ -1,0 +1,84 @@
+@media screen  and (max-width :1500px) {
+    #monstera {
+        font-size: 100px;
+    }
+    #midWholePart1 {
+       width: 100%;
+    }
+}
+@media screen and (max-width: 1200px){
+    .navMid {
+        width: 80%;
+    }
+    .navMid > div {
+        margin: 23px 10px;
+        padding: 8px 20px;
+    }
+    #midWhole {
+        width: 85%;
+    }
+    #monstera {
+        font-size: 80px;
+    }
+    #navbarMonstera {
+        width: 85%;
+    }
+    #midWholePart121:first-child {
+        padding: 10px 0px;
+    }
+    #navEnd{
+        display: none;
+    }
+    #navFirst img {
+        padding: 20px 0px;
+    }
+    #midWholePart1 {
+        width: 100%;
+    }
+    #midWholePart1 {
+        width: 100%;
+        float: left;
+        margin-top: 68px;
+    }
+    #imgMain {
+       width: 100%;
+    }
+    
+}
+@media screen and (max-width: 870px) {
+    .bar{
+        display: block;
+        float: right;
+        margin-top: 20px;
+        margin-right: 20px;
+    }
+    
+    #navMid{
+        display: none;
+    }
+    #navEnd{
+        display: none;
+    }
+    #midWholePart13 > div{
+        clear: both;
+        width: 100%;
+    }
+    #monstera {
+        font-size: inherit;
+    }
+    #midWholePart1 {
+        width: 100%;
+    }
+    #midWholePart13 > div {
+        clear: both;
+        width: 30%;
+    }
+    #imgMain{
+      display: none;
+    }
+    #midWholePart13 > div {
+        width: 95%;
+    }
+}
+
+
